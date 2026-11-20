@@ -1,4 +1,8 @@
 # LabSense AI — Multimodal AI-Powered Electronics Laboratory Learning Platform
+## 🌐 Live Demo
+
+**Visit our deployed project:** [LabSense AI](https://chinmayidachinmayida-cmyk.github.io/Labs-and-Theory/)
+
 
 [![Hacktoberfest](https://img.shields.io/badge/Event-Hacktoberfest_VVCE_Mysuru-0284c7.svg)](https://github.com/HackToBerFest-VVCE/t1c1-hack-hive)
 [![Challenge Track](https://img.shields.io/badge/Track-Best_Use_of_Gemma_4-38bdf8.svg)](https://github.com/HackToBerFest-VVCE/t1c1-hack-hive)
