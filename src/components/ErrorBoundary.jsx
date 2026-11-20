@@ -88,7 +88,7 @@ export default class ErrorBoundary extends React.Component {
                 className="btn btn-primary"
                 onClick={() => {
                   this.setState({ hasError: false, error: null });
-                  window.location.href = '/';
+                  window.location.reload();
                 }}
                 style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', padding: '0.65rem 1.25rem' }}
               >
